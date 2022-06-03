@@ -16,7 +16,9 @@ npm run start
 
 VSCode Debug:
 
-Run > Start Debugging
+```
+VSCode menu: Run > Start Debugging
+```
 
 Build:
 
