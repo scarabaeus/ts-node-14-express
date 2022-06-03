@@ -8,8 +8,18 @@ Install:
 npm install
 ```
 
-Run:
+Run locally:
 
 ```bash
 npm run start
+```
+
+VSCode Debug:
+
+Run > Start Debugging
+
+Build:
+
+```bash
+npm run build
 ```
